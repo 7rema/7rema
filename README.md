@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @7rema
-- 👀 I’m interested in <h1>web dev</h1>
+- 👀 I’m interested inbweb dev
 - 🌱 I’m currently learning console.log('JavaScript');
